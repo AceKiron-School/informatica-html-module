@@ -1,0 +1,29 @@
+html, body {
+	font-size: 2.5vh;
+	
+	height: 100%;
+	
+	overflow-y: hidden;
+}
+
+html {
+	background: linear-gradient(180deg, #000 0%, #000 25%, #7f7f7f 25%, #7f7f7f 50%, #fff 50%, #fff 75%, #8510d8 75%, #8510d8 100%);
+}
+
+p {
+	text-decoration: overline;
+	text-transform: capitalize;
+	text-indent: 3em;
+}
+
+#naam {
+	color: black;
+}
+
+.naam {
+	color: white;
+}
+
+h3 {
+	border: 8px solid purple;
+}
